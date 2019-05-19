@@ -5,6 +5,6 @@
 
 Follow steps to setup project
 
-- Create as .env file.
+- Create a .env file.
 - Generate application key using php artisan key:generate.
 - Setup your .env file.
