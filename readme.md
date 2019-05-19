@@ -11,6 +11,6 @@
 
 Follow steps to setup project
 
-- Copy .env.example as .env using cmd copy .env.example .env.
+- Create as .env file.
 - Generate application key using php artisan key:generate.
 - Setup your .env file.
